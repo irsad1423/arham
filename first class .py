@@ -1,0 +1,2 @@
+a="INTAGRAM"
+print(a)
